@@ -126,8 +126,8 @@ button:hover {
 .confetti {
     position: absolute;
     top: 0;
-    width: 5px;
-    height: 5px;
+    width: 10px;
+    height: 20px;
     background-color: #FF4081;
     animation: confettiFall 2s infinite;
 }
