@@ -100,9 +100,9 @@ let s = setInterval(() => {
 
 
 
-let my = setTimeout(() => {
-    alert("Maine banaya hai ye")
+// let my = setTimeout(() => {
+//     alert("Maine banaya hai ye")
     
-}, 10000);
+// }, 10000);
 
 
